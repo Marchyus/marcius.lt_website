@@ -147,16 +147,7 @@ icon = "ti-facebook"
 link = "https://www.facebook.com/marcius.lt/"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-youtube"
-link = "#"
+link = "https://twitter.com/Marchyus"
 [[params.social]]
 icon = "ti-linkedin"
 link = "https://www.linkedin.com/in/martynasbalaisis/"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
-link = "#"
