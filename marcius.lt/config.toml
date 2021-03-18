@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Martynas"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Marčius.lt. Design: [ThmeFisher](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -49,57 +49,49 @@ pre = "#"
 url = "contact"
 weight = 7
 [[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [Languages.lt]
-contentDir = "content/lithuanian"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+contentDir = "content/lietuviskai"
+copyright = "Copyright &copy; 2021 Marčius.lt. Dizainas: [ThmeFisher](https://gethugothemes.com)"
 home = "Pradžia"
 languageCode = "lt-lt"
 languageName = "Lt"
 weight = 2
 [[Languages.lt.menu.main]]
-name = "sur"
+name = "Apie"
 pre = "#"
 url = "about"
 weight = 1
 [[Languages.lt.menu.main]]
-name = "un service"
+name = "Paslaugos"
 pre = "#"
 url = "services"
 weight = 2
 [[Languages.lt.menu.main]]
-name = "portefeuille"
+name = "Portfolio"
 pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.lt.menu.main]]
-name = "équipe"
+name = "Komanda"
 pre = "#"
 url = "team"
 weight = 4
 [[Languages.lt.menu.main]]
-name = "tarification"
+name = "Kainos"
 pre = "#"
 url = "pricing"
 weight = 5
 [[Languages.lt.menu.main]]
-name = "blog"
+name = "Blogas"
 pre = "#"
 url = "blog"
 weight = 6
 [[Languages.lt.menu.main]]
-name = "contact"
+name = "Susisiekti"
 pre = "#"
 url = "contact"
 weight = 7
 [[Languages.lt.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
