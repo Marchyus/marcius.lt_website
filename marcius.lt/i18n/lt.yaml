@@ -17,10 +17,6 @@
 - id: services
   translation: Paslaugos
 - id: portfolio
-  translation: Portfolio
-- id: team
-  translation: KOmandas
-- id: pricing
   translation: Kainos
 - id: blog
   translation: Blogas

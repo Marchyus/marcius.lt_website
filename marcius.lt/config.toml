@@ -29,11 +29,6 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "pricing"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.en.menu.main]]
 name = "blog"
 pre = "#"
 url = "blog"
