@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "Martynas"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2021 Marčius.lt. Design: [ThmeFisher](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Marčius.lt. Design: [ThemeFisher](https://gethugothemes.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -51,7 +51,7 @@ weight = 7
 [[Languages.en.menu.main]]
 [Languages.lt]
 contentDir = "content/lietuviskai"
-copyright = "Copyright &copy; 2021 Marčius.lt. Dizainas: [ThmeFisher](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2021 Marčius.lt. Dizainas: [ThemeFisher](https://gethugothemes.com)"
 home = "Pradžia"
 languageCode = "lt-lt"
 languageName = "Lt"

@@ -2,15 +2,16 @@
 about:
   enable : true
   title : Who I am
-  about_item :
-  - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
-    title : Certified Blue Prism developer
-    content : I find pleasure in tacling challenging, inconvenient RPA cases or creatively integrating RPA with other tools.
+  about_item :About
 
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : Dev Ops engineer
-    content : I'm running stable BluePrism and UiPath platforms. From initial Server/Database/Runtime resoures/Network setup to daily maintenance, upgrades, etc.
+    title : Dev Ops engineer with focus on RPA platform
+    content : Running stable(! :) ) BluePrism and UiPath platforms. From platform plan, to implementation and improvement. 
+
+  - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
+    title : Certified Blue Prism developer
+    content : I find pleasure in creative integrating of RPA with other tools. Or simply tackling challenging, inconvenient RPA cases.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : Something else? 
-    content : Python developer, pow
+    title : Upbeat realist
+    content : TBA

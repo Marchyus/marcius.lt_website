@@ -5,10 +5,10 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Hi."
-  content : "Dev Ops engineer with keen interest on RPA. Open source enthusianst, python fan, your frienldy neighbourhood geek"
+  content : "Dev ops engineer with keen interest in RPA. Fluent in Blue Prism, speak Python, bash and powershell. Adore Open Source and geeking out on many topics"
   button:
     enable : true
-    label : "Explore Us"
+    label : "About me"
     link : "#services"
   button:
     enable : true
