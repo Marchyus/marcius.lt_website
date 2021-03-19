@@ -29,11 +29,6 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.en.menu.main]]
-name = "team"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.en.menu.main]]
 name = "pricing"
 pre = "#"
 url = "pricing"
@@ -72,11 +67,6 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.lt.menu.main]]
-name = "Komanda"
-pre = "#"
-url = "team"
-weight = 4
-[[Languages.lt.menu.main]]
 name = "Kainos"
 pre = "#"
 url = "pricing"
@@ -93,8 +83,8 @@ url = "contact"
 weight = 7
 [[Languages.lt.menu.main]]
 [params]
-author = "Themefisher"
-description = "Responsive Multipurpose Parallax Hugo Template"
+author = "Martynas"
+description = " TBA "
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
