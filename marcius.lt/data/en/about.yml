@@ -2,8 +2,7 @@
 about:
   enable : true
   title : Who I am
-  about_item :About
-
+  about_item :
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Dev Ops engineer with focus on RPA platform
     content : Running stable(! :) ) BluePrism and UiPath platforms. From platform plan, to implementation and improvement. 
