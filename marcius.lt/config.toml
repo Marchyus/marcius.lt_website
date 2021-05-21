@@ -62,11 +62,6 @@ pre = "#"
 url = "portfolio"
 weight = 3
 [[Languages.lt.menu.main]]
-name = "Kainos"
-pre = "#"
-url = "pricing"
-weight = 5
-[[Languages.lt.menu.main]]
 name = "Blogas"
 pre = "#"
 url = "blog"
