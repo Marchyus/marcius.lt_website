@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : Kas aš esu
   about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creativeaa
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Dev Ops inžinierius 
+    content : Didelės RPA (Blue Prism)  platformos planavimas, statymas ir priežiūra (serveriai, duomenų bazės, resursai), su nedidele UiPath platforma šalia.
+
+  - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
+    title : Sertifikuotas Blue Prism programuotojas
+    content : Mėgstantis sudėtingas ir nepatogias RPA uždtuotis ir/arba RPA integravimą su kitais įrankiais.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Optimistiškas realistas
+    content : Žinoma galima padaryti požiūris nepabėgant nuo realybės
