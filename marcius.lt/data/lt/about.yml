@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Dev Ops inžinierius 
-    content : Didelės RPA (Blue Prism)  platformos planavimas, statymas ir priežiūra (serveriai, duomenų bazės, resursai), su nedidele UiPath platforma šalia.
+    content : Didelės Blue Prism RPA platformos administratorius (serveriai, duomenų bazės, resursai).
 
   - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
     title : Sertifikuotas Blue Prism programuotojas
-    content : Mėgstantis sudėtingas ir nepatogias RPA uždtuotis ir/arba RPA integravimą su kitais įrankiais.
+    content : Mėgstantis sudėtingas ir nepatogias RPA užduotis ir RPA integraciją su kitais įrankiais.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Optimistiškas realistas
-    content : Žinoma galima padaryti požiūris nepabėgant nuo realybės
+    content : Mano stiklinė visuomet pusiau pilna ir planai optimistiniai, tačiau nepabėgu nuo realybės:) 

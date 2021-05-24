@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
     title : Dev Ops engineer 
-    content : Planned, built and am running large Blue Prism platform (servers, databases, runtime resources) with small UiPath platform on the side.
+    content : Planned, built and am running large Blue Prism platform (servers, databases, runtime resources).
 
   - icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
     title : Certified Blue Prism developer
-    content : I find pleasure in challenging, inconvenient RPA cases and/or integrating RPA with other tools.
+    content : I find pleasure in challenging, inconvenient RPA cases and RPA integration with other tools.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : Upbeat realist
-    content : I savor mix of optimistic can do attitude with healthy relism
+    content : My glass is always half full and plans are optimistic, but tethered to reality:)
