@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Hi."
-  content : "Dev ops engineer with keen interest in RPA. Fluent in Blue Prism and its infrastructure, speaks Uipath, Python with Flask or Django accent. Will spend an hour automating task, which takes 5 minutes to do manually ;)"
+  content : "Dev ops engineer with keen interest in RPA. Fluent in Blue Prism and its infrastructure, speaks Uipath, Python with Flask or Django accent and much more. Will spend an hour automating task, which takes 5 minutes to do manually ;)"
   button:
     enable : true
     label : "About me"
