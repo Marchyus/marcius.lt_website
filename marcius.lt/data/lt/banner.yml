@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/hero-area.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Labas."
-  content : "Dev ops inžinierius dirbantis su RPA technologijomis. Blue Prism ir jo infrastruktūros ekspertas, dirbantis su UiPath'u, Pyhthon'u jo web servisais flask ir django ir daug daugiau. Praleisiu valandą automatizuodamas užduotį, kuriai atlikti reikia 5 minučių ;)"
+  content : "Dev ops inžinierius dirbantis su RPA technologijomis. Blue Prism ir jo infrastruktūros ekspertas, dirbantis su UiPath'u, Pyhthon'u, flask ir django karkasais bei daug daugiau. Praleisiu valandą automatizuodamas užduotį, kuriai atlikti reikia 5 minučių ;)"
   button:
     enable : true
     label : "Apie mane"
